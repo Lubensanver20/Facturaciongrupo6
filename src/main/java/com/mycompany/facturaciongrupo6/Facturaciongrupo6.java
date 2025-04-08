@@ -13,4 +13,9 @@ public class Facturaciongrupo6 {
     public static void main(String[] args) {
         System.out.println("Hello World!");
     }
+    public void agregarcliente(String nombre)
+    {
+        System.out.println("Cliente agregado:" + nombre);
+
+    }
 }
